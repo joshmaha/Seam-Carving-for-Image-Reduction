@@ -22,13 +22,11 @@ Seam carving allows images to be resized while better preserving important conte
 
 ```
 ├── notebooks/
-│   └── Joshua_Maharaj_PS1.ipynb    # Main project notebook
+│   └── seamCarving.ipynb    # Main project notebook
 ├── images/
 │   ├── input/                      # Input images
-│   ├── output/                     # Results (reduced width/height, comparisons)
 ├── utils/
-│   ├── helpers.py                  # Helper functions (load_rgb, show_images, save_rgb, etc.)
-├── README.md                       # Project description
+│   ├── README.md                       # Project description
 ```
 
 ---
@@ -69,15 +67,10 @@ Seam carving allows images to be resized while better preserving important conte
 Clone the repository:
 
 ```bash
-git clone https://github.com/joshmaha/seam-carving.git
+git clone https://github.com/joshmaha/seamCarving.git
 cd seam-carving
 ```
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 Requirements:
 
