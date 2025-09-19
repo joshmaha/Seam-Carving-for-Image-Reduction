@@ -35,17 +35,21 @@ Seam carving allows images to be resized while better preserving important conte
 
 ## 📸 Results
 
+### Horizontal Seam Reduction
+
+<img width="1378" height="472" alt="image" src="https://github.com/user-attachments/assets/ac321fd6-d246-46b1-8a05-3c1fefe88350" />
+
+### Energy Gradient Magnitude and Cumulative Horizontal and Vertical Mapping
+
+<img width="1678" height="455" alt="image" src="https://github.com/user-attachments/assets/23bc0d0c-0bcf-4426-85d5-b6e32875b4c5" />
 
 ### Original Energy Mapping vs Gaussian Filter Energy Mapping
 
-<img width="733" height="299" alt="image" src="https://github.com/user-attachments/assets/074f8738-516e-4002-bb31-ae9da6d91b03" />
-
+<img width="733" height="294" alt="image" src="https://github.com/user-attachments/assets/f5bdf8f2-ec43-4d2a-87bb-bd8cee76c07b" />
 
 ### Test Beach Image using Seam Carving vs Standard Resizing
 
 <img width="840" height="176" alt="image" src="https://github.com/user-attachments/assets/1f8c3909-c38f-4f75-bae8-fdca60cb6994" />
-
-<img width="733" height="299" alt="image" src="https://github.com/user-attachments/assets/1f8c3909-c38f-4f75-bae8-fdca60cb6994" />
 
 ---
 
