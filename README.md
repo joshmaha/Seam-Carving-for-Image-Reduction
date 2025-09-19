@@ -35,21 +35,13 @@ Seam carving allows images to be resized while better preserving important conte
 
 ## 📸 Results
 
-### Example: Prague Image
+### Example: Test Beach Image
 
-| Original                             | Seam Carving                                       | Standard Resize                                 |
-| ------------------------------------ | -------------------------------------------------- | ----------------------------------------------- |
-| ![original](images/input/prague.jpg) | ![seam](images/output/outputReduceWidthPrague.png) | ![resize](images/output/outputResizePrague.png) |
-
-### Example: Mall Image
-
-| Original                           | Seam Carving                                      | Standard Resize                               |
-| ---------------------------------- | ------------------------------------------------- | --------------------------------------------- |
-| ![original](images/input/mall.jpg) | ![seam](images/output/outputReduceHeightMall.png) | ![resize](images/output/outputResizeMall.png) |
+<img width="840" height="176" alt="image" src="https://github.com/user-attachments/assets/1f8c3909-c38f-4f75-bae8-fdca60cb6994" />
 
 ---
 
-## 📖 Questions Completed
+## 📖 Completed Sections
 
 * **Q1**: Implemented energy function and seam visualization.
 * **Q2**: Reduced width and height by removing vertical and horizontal seams.
@@ -65,7 +57,7 @@ Seam carving allows images to be resized while better preserving important conte
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/seam-carving.git
+git clone https://github.com/joshmaha/seam-carving.git
 cd seam-carving
 ```
 
@@ -84,14 +76,7 @@ Requirements:
 
 ---
 
-## 🎓 Course Info
-
-This project was completed for **CIS 4841 – Computer Vision**, University of South Florida.
-
----
-
 ## ✨ Acknowledgments
 
 * Avidan, S., & Shamir, A. (2007). *Seam Carving for Content-Aware Image Resizing*.
 * Numpy, OpenCV, and Matplotlib libraries.
-* Assignment starter code and guidance from course instructors.
