@@ -35,9 +35,17 @@ Seam carving allows images to be resized while better preserving important conte
 
 ## 📸 Results
 
-### Example: Test Beach Image
+
+### Original Energy Mapping vs Gaussian Filter Energy Mapping
+
+<img width="733" height="299" alt="image" src="https://github.com/user-attachments/assets/074f8738-516e-4002-bb31-ae9da6d91b03" />
+
+
+### Test Beach Image using Seam Carving vs Standard Resizing
 
 <img width="840" height="176" alt="image" src="https://github.com/user-attachments/assets/1f8c3909-c38f-4f75-bae8-fdca60cb6994" />
+
+<img width="733" height="299" alt="image" src="https://github.com/user-attachments/assets/1f8c3909-c38f-4f75-bae8-fdca60cb6994" />
 
 ---
 
